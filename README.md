@@ -10,14 +10,14 @@
 
 ###
 
-<p align="left"># Hamdan Israr<br><br>## Summary<br>Experienced Full-Stack Developer with a strong background in mobile application development, backend services, and web technologies. Proficient in leveraging technologies like Flutter, Node.js, Java, and AWS to deliver innovative solutions. Adept at problem-solving, collaboration, and ensuring software quality. Certified in SQL, Node.js, and Java. <br><br>## Work Experience<br>
-- 🔭 I’m currently working on ... Enhancing my skills in Flutter, Node.js, Java, Python Ai and exploring new front-end & back-end technologies .
-- 🌱 I’m currently learning ... Advanced algorithms and data structures.
-- 👯 I’m looking to collaborate on ... Open-source projects related to mobile app development.
-- 💬 Ask me about ... Mobile app development, backend services, or anything related to software engineering.
-- 📫 How to reach me: ... Feel free to email me at xhamdanisrar@gmail.com or connect on Whatsapp (wa.link/bcc4iu)
-- 😄 Pronouns: ... He/Him
-- ⚡ Fun fact: ... I'm a huge fan of sci-fi & technologies researches.
+<p align="left"><h2> Hamdan Israr   </h2>   <br><br><h2>Summary </h2> <br>Experienced Full-Stack Developer with a strong background in mobile application development, backend services, and web technologies. Proficient in leveraging technologies like Flutter, Node.js, Java, and AWS to deliver innovative solutions. Adept at problem-solving, collaboration, and ensuring software quality. Certified in SQL, Node.js, and Java. <br><br><h2> Work Experience</h2> <br>
+<br>- 🔭 I’m currently working on ... Enhancing my skills in Flutter, Node.js, Java, Python Ai and exploring new front-end & back-end technologies .<br>
+<br>- 🌱 I’m currently learning ... Advanced algorithms and data structures.<br>
+<br>- 👯 I’m looking to collaborate on ... Open-source projects related to mobile app development.<br>
+<br>- 💬 Ask me about ... Mobile app development, backend services, or anything related to software engineering.<br>
+<br>- 📫 How to reach me: ... Feel free to email me at xhamdanisrar@gmail.com or connect on Whatsapp (wa.link/bcc4iu)<br>
+<br>- 😄 Pronouns: ... He/Him<br>
+<br>- ⚡ Fun fact: ... I'm a huge fan of sci-fi & technologies researches.<br>
  
 ###
 
