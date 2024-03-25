@@ -10,7 +10,7 @@
 
 ###
 
-<p align="left"><h2> Hamdan Israr   </h2>   <br><br><h2>Summary </h2> <br>Experienced Full-Stack Developer with a strong background in mobile application development, backend services, and web technologies. Proficient in leveraging technologies like Flutter, Node.js, Java, and AWS to deliver innovative solutions. Adept at problem-solving, collaboration, and ensuring software quality. Certified in SQL, Node.js, and Java. <br><br><h2> Work Experience</h2> <br>
+<p align="left"><br>Experienced Full-Stack Developer with a strong background in mobile application development, backend services, and web technologies. Proficient in leveraging technologies like Flutter, Node.js, Java, and AWS to deliver innovative solutions. Adept at problem-solving, collaboration, and ensuring software quality. Certified in SQL, Node.js, and Java. <br><br><h2> Work Experience</h2> <br>
 <br>- 🔭 I’m currently working on ... Enhancing my skills in Flutter, Node.js, Java, Python Ai and exploring new front-end & back-end technologies .<br>
 <br>- 🌱 I’m currently learning ... Advanced algorithms and data structures.<br>
 <br>- 👯 I’m looking to collaborate on ... Open-source projects related to mobile app development.<br>
