@@ -122,7 +122,6 @@ Welcome to my personal portfolio! You can view my work, projects, and skills her
 ###
 
 <p align="left"></p>
-[![GitHub Streak](https://streak-stats.demolab.com?user=hadidevlabx&theme=dark&border_radius=6&mode=weekly&type=png)](https://git.io/streak-stats)
 ###
 
 <p align="left"></p>
